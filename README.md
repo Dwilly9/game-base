@@ -2,11 +2,12 @@
 Use this as to clone as an engine-agnostic base for your game-dev projects. This includes all necessary documentation templates to start.
 
 ## FILE STRUCTURE
+```
 /
 ├── README.md
 ├── adrs/
 ├── dev-diaries
-├── gdds
+├── gdds/
 │   ├── art-style.md
 │   ├── master-gdd.md
 │   ├── setting.md
@@ -14,6 +15,7 @@ Use this as to clone as an engine-agnostic base for your game-dev projects. This
 │   ├── scope.md
 │   ├── systems/
 │   │   ├── combat.md
+```
 
 ## DOCS AND THEIR PURPOSES
 - adrs/
